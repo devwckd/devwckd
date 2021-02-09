@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**devwckd/devwckd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm João Victor, I'm 19 yo, and I create Software, APIs, Websites, Backend Systems & Frontend Designs.  
 
-Here are some ideas to get you started:
+🔭 I’m currently working as a Freelancer.  
+🌱 I’m currently improving my skills with Java Spring.  
+👯 I’m looking to collaborate on any kind of java/kotlin and/or frontend related project.  
+📫 How to reach me: joaovictorgomides@outlook.com  
+😄 Pronouns: he/him.  
+⚡ Fun fact: Music it's my second passion.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some projects that may interest you:
+
+Frontend related projects:
+- [spiderman-website] is a frontend project made during a free course in plain html/css/js.  
+- [nlw-frontend] is also a frontend project made during a free course, but this time in reactjs.
+
+Backend related projects:  
+*coming soon...*
+
+Minecraft related projects:
+- [mc-libraries] is a library made in java designed to help and speed up spigot and bungee development.
+- [wckd-ranks] is a minecraft rank management plugin made in java.
+
+
+[spiderman-website]: https://github.com/devwckd/spiderman-website
+[nlw-frontend]: https://github.com/devwckd/nlw-frontend
+[mc-libraries]: https://github.com/devwckd/mc-libraries
+[wckd-ranks]: https://github.com/devwckd/wckd-ranks
