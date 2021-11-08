@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm João Victor, I'm 19 yo, and I create Software, APIs, Websites, Backend Systems & Frontend Designs.  
+I'm João Victor, I'm 20 yo, and I create Software, APIs, Websites, Backend Systems & Frontend Designs.  
 
 🔭 I’m currently working as a Freelancer.  
 🌱 I’m currently improving my skills with Java Spring.  
