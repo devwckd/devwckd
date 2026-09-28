@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm [João Victor](https://joao.rs), I'm 23 yo, and I create Software.  
-I'm currently working as a Java Freelancer.
+I'm [João Victor](https://joao.rs), I'm 25 yo, and I create Software.  
+I'm currently working as a Freelancer.
 
-I Love Rust and Kotlin.  
+I Love Rust.  
 I also love working with devops/systems design and tooling, specially game related stuff.  
 
 Most of the stuff I do on my free time is related to:  
